@@ -71,4 +71,7 @@ lvwBooks.Columns.Add("書名", 100);
 lvwBooks.Columns.Add("作者", 60);
 lvwBooks.Columns.Add("類別", 60);
 
-##執行截圖
+
+## 執行截圖
+![image](picture or gif url)
+
