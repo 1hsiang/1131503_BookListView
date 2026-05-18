@@ -62,6 +62,10 @@
 6. 在確認視窗中選擇「是」
 7. 書籍會加入右側借書清單
 
+
+## 執行截圖
+![image]https://github.com/1hsiang/1131503_BookListView/blob/master/image.png
+
 ## 程式重點
 
 ### 新增 ListView 欄位
@@ -70,7 +74,4 @@
 lvwBooks.Columns.Add("書名", 100);
 lvwBooks.Columns.Add("作者", 60);
 lvwBooks.Columns.Add("類別", 60);
-ˋˋˋ
-
-image.png
 
