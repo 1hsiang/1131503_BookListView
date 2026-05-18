@@ -64,7 +64,7 @@
 
 
 ## 執行截圖
-![image]https://github.com/1hsiang/1131503_BookListView/blob/master/image.png
+![image alt](https://github.com/1hsiang/1131503_BookListView/blob/893a2aa11481f01720158bdca5879ad3faab78f2/image.png)
 
 ## 程式重點
 
